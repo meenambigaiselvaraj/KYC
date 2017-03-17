@@ -1,0 +1,30 @@
+.appForm{
+  
+    font-weight: bold;
+      background:  white;
+      padding-left: 5%;
+    
+      padding-bottom: 3%;
+}
+
+.appHeader{
+    text-align: center;
+    font-size: 25px;
+    padding-top: 2%;
+     background:  lightblue;
+     padding-bottom: 2.5%;
+   
+   
+} 
+.appBody{
+   background:  lightgrey;
+   padding-bottom: 40%;
+}
+ .appAlign{
+ 
+ }
+
+ .appButton{
+  padding-left: 27%;
+  padding-top: 2%;
+ }
