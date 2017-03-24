@@ -1,4 +1,37 @@
-.Header {
-  text-align: right;
-  -webkit-text-fill-color: orange;
+.headerBody{
+    background:  lightgrey;
+    padding-bottom: 40%;
 }
+  
+.headerTab{
+     text-align: center;
+    font-size: 25px;
+    padding-top: 2%;
+     background:  lightblue;
+     padding-bottom: 2%;
+}
+
+.headerCell{
+      font-weight: bold;
+      background:  white;
+     
+}
+
+.demo-list-action {
+  width: 300px;
+}
+
+
+
+.tableBody {
+    border-collapse: collapse;
+    width: 100%;
+    
+}
+
+td {
+    text-align: left;
+    padding: 20px;
+}
+
+tr:nth-child(even){background-color:lightgrey}
